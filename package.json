@@ -4,10 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "env-cmd -f ./config/dev.env nodemon dist/src/index.js",
-    "start": "node src/index.js",
-    "build": "webpack --watch",
-    "compile:sass": "sass --watch dist/public/scss:dist/public/assets/css"
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
