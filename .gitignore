@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+dev.session.sql
+config/
+prod.session.sql
+Schema.pdf
+Library.sql
+Stored Procedures.sql

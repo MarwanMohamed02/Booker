@@ -1,0 +1,18 @@
+@use "custom" as *;
+
+//IMPORT THE COMPONENTS
+@use 'components/animations';
+@use 'components/button';
+@use 'components/mixins';
+@use 'components/typography';
+@use 'components/box';
+
+//IMPORT THE SECTIONS
+@use 'sections/navbar';
+@use 'sections/home';
+@use 'sections/services';
+@use 'sections/footer';
+@use 'sections/login';
+@use 'sections/signup';
+@use 'sections/table';
+@use 'sections/reviews'
